@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Priyanshi Chauhan 👋
 
 <!--
 **priyanshichauhan06/priyanshichauhan06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
